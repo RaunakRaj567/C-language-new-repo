@@ -60,4 +60,5 @@ export function VivaSection({ questions }) {
   );
 }
 
-export default { ContentCard, VivaSection };
+const contentCardExports = { ContentCard, VivaSection };
+export default contentCardExports;
